@@ -1,22 +1,8 @@
 #Gamestore Inventory JS App -
 #### v.001
 
-##User Interface Design Reference (UI/UX)
-* Add Items/Click/Touch
-	* #b6b6b6
-	*  <div style='border:solid 1px #afafaf; background-color:#b6b6b6'>Add Items/Click/Touch</div>
-
-* Hover/Mouse Over
-	* #dedede
-	* <div style='border:solid 1px #afafaf;  background-color:#dedede'>Hover/Click/Touch Events</div>
-
-* Default States
-	* #efefef
-	*  <div style='border:solid 1px #afafaf; background-color:#efefef'>Default States</div>
-
-* New Item/Animated Fade To Default State
-	* #ffffff
-	*  <div style='border:solid 1px #afafaf; background-color:#ffffff'>Default States</div>
+##User Interface Design Reference
+<http://geekwise.github.io/geekwise.js.edc.sept09/user_interface_design_reference.html>
 
 
 ##Todo
