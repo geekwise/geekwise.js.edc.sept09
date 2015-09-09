@@ -15,5 +15,5 @@
 	*  <div style='border:solid 1px #afafaf; background-color:#efefef'>Default States</div>
 
 * New Item/Animated Fade To Default State
-	* #ffffff
-	*  <div style='border:solid 1px #afafaf; background-color:#ffffff'>Default States</div>
+	* #ffffff with border:solid 0.5px #afafaf
+	*  <div style='border:solid 0.5px #afafaf; background-color:#ffffff'>Default States</div>
